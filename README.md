@@ -1,6 +1,26 @@
-# Angular8FirebaseCrud
+# Angular 8 Firebase CRUD App with Realtime Database
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+For more detail, please visit:
+> [Angular 8 Firebase CRUD Realtime DB | AngularFireDatabase](https://bezkoder.com/angular-8-firebase-crud/)
+
+More Practice:
+> [Angular 8 CRUD application example with Web API](https://bezkoder.com/angular-crud-app/)
+
+Fullstack with Node.js Express:
+> [Angular 8 + Node.js Express + MySQL](https://bezkoder.com/angular-node-express-mysql/)
+
+> [Angular 8 + Node.js Express + PostgreSQL](https://bezkoder.com/angular-node-express-postgresql/)
+
+> [Angular 8 + Node.js Express + MongoDB](https://bezkoder.com/angular-mongodb-node-express/)
+
+Fullstack with Spring Boot:
+> [Angular 8 + Spring Boot + MySQL/PostgreSQL](https://bezkoder.com/angular-spring-boot-crud/)
+
+> [Angular 8 + Spring Boot + MongoDB](https://bezkoder.com/angular-spring-boot-mongodb/)
+
+Fullstack with Django:
+
+> [Angular 8 + Django Rest Framework](https://bezkoder.com/django-angular-crud-rest-framework/)
 
 ## Development server
 
