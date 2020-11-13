@@ -14,7 +14,9 @@ Fullstack with Node.js Express:
 > [Angular 8 + Node.js Express + MongoDB](https://bezkoder.com/angular-mongodb-node-express/)
 
 Fullstack with Spring Boot:
-> [Angular 8 + Spring Boot + MySQL/PostgreSQL](https://bezkoder.com/angular-spring-boot-crud/)
+> [Angular 8 + Spring Boot + MySQL](https://bezkoder.com/angular-spring-boot-crud/)
+
+> [Angular 8 + Spring Boot + PostgreSQL](https://bezkoder.com/angular-spring-boot-postgresql/)
 
 > [Angular 8 + Spring Boot + MongoDB](https://bezkoder.com/angular-spring-boot-mongodb/)
 
